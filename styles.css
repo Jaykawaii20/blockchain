@@ -356,3 +356,17 @@ nav ul li a:hover {
   top: 140%;
   width: 50%;
 }
+.erc721 {
+  top: 425%;
+  left: 20%;
+  position: absolute;
+  width: 20%;
+  height: 30%;
+}
+.erc1155 {
+  top: 485%;
+  left: 20%;
+  position: absolute;
+  width: 20%;
+  height: 30%;
+}
