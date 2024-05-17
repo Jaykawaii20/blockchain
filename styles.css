@@ -112,6 +112,24 @@ nav ul li a:hover {
 
 }
 
+@media (max-width: 1600px) {
+  .content-logo {
+    position: relative;
+    max-width: 50%;
+    z-index: 1;
+    left: -2%;
+    margin-top: -25%;
+  }
+
+  .navbar a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+  }
+
+}
+
 
 
 .description p {
